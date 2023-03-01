@@ -21,3 +21,5 @@ Will add this extra line directly on main.
 Additional footer line.
 
 Second additional line at the end.
+
+Footer extra line 3.
