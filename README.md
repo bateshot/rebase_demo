@@ -2,7 +2,7 @@
 
 A "playground" for rebase training.
 
-Will contain four lines and a 3 line footer.
+Will contain four lines and a many line footer.
 
 Adding the first line.
 
@@ -23,5 +23,7 @@ Additional footer line.
 Second additional line at the end.
 
 Footer extra line 3.
+
+Footer line four.
 
 Again, changing last line on main!
