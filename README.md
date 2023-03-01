@@ -17,3 +17,5 @@ A line change on main.
 Extra footer line.
 
 Will add this extra line directly on main.
+
+Additional footer line.
